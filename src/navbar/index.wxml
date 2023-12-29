@@ -1,0 +1,3 @@
+<view class="page">
+    <text id="show">我是测试组件navbar</text>
+</view>
